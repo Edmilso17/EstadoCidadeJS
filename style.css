@@ -1,0 +1,31 @@
+body{
+background-image: linear-gradient(to right, #866a80, #4d3147 );
+}
+
+.form{
+
+    display: flex;
+
+    justify-content: center;
+
+   margin-top: 5%;
+
+   color: #0d0210;
+
+}
+
+.resultado{
+    display: flex;
+
+    justify-content: center;
+
+    margin-top: 2%;
+
+    margin-left: 600px;
+
+    margin-right: 600px;
+
+    color: #0d0210;
+
+    background-color: #c9b7c7;
+}
